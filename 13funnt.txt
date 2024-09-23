@@ -1,0 +1,2 @@
+hello world iam in python 
+we are in txt file

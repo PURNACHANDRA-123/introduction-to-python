@@ -1,0 +1,5 @@
+word count of this line is 19 = hello world iam in pythonhello world iam in python we are in txt filehello world iam in python 
+
+word count of this line is 10 = we are in txt filehello world iam in python 
+
+word count of this line is 5 = we are in txt file
