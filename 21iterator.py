@@ -8,9 +8,10 @@ class remotecontrol:
 
     def __next__(self):
         self.index += 1
-        if self.index >= len(self.channel):
-            self.index = -1  # Reset index to -1 when exhausted
+        if self.index == len(self.channel):
+            
             raise StopIteration
+        
         return self.channel[self.index]
 
 
@@ -22,5 +23,5 @@ print(next(iterator))
 print(next(iterator))
 print(next(iterator))
 print(next(iterator))
-
+print(next(iterator))
 
