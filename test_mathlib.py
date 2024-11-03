@@ -9,5 +9,5 @@ import pytest
                          ]
                          )
 def test_calc_square(test_input, expected_output):
-    result = mathlib.calc_square(test_input)
+    result = marhlib.calc_square(test_input)
     assert result == expected_output
