@@ -20,5 +20,11 @@ print(calendar.isleap(2037))
 
 
 
+print(math.floor(3.4))  # Output: 3
+print(math.ceil(3.4))   # Output: 4
+
+#floor is like "falling down" to the nearest whole number (3.4 falls down to 3)
+#ceil is like "reaching up" to the nearest whole number (3.4 reaches up to 4)
+
 
 

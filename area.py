@@ -13,3 +13,4 @@ if __name__ == "__main__":
 #when importing file in amother py file it will create pyccache folder
 
 
+# you cannot import a file that starts with a digit directly, and this will result in an error.

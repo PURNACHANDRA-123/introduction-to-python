@@ -41,7 +41,8 @@ for i in range(1,4):
         
         s="*"*i
     print(s)
-
+for i in range(1, 7):
+    print("$"*i)
 #pattren printing
 # *****
 # ****
@@ -50,3 +51,6 @@ for i in range(1,4):
 # *
 for i in range(5,0,-1):
     print("*"*i)
+    #range(start, stop, step)  range(5,0,-1):
+for i in range(6, 0, -1):
+    print("$"*i)
